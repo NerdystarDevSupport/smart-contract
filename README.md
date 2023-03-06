@@ -4,11 +4,9 @@
 
 ## 플러그인 매니저 install
 <p align="center">
-  <a target="blank"><img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FOJwdA%2FbtrydIeLgkW%2FzLGitTWO2yB41dGKEm0m7k%2Fimg.jpg" width="320" alt="Nest Logo" /></a>
 </p>
 <p align="center">
-  <a target="blank"><img src="https://user-images.githubusercontent.com/73306668/183391230-5686e392-d3ad-48b1-b1bf-70a31ea5b6d4.png" width="320" alt="Nest Logo" /></a>
-</p>
+
 
 ```bash
 1. GITGUB SETTINGS
